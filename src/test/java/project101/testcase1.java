@@ -31,6 +31,13 @@ public class testcase1 {
 
 	}
 	
+	@Test
+	public void nowClick2() {
+		
+		System.out.println("Passed");
+
+	}
+	
 	@AfterTest
 	public void closing() {
 		
